@@ -5,6 +5,7 @@ import cloud.autotests.helpers.DriverUtils;
 import io.qameta.allure.Description;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
+import org.openqa.selenium.By;
 
 import static com.codeborne.selenide.Selenide.*;
 import static io.qameta.allure.Allure.step;
@@ -19,8 +20,8 @@ public class GeneratedTests extends TestBase {
         step("open https://goritskov.com/", () ->
                 open("https://goritskov.com/"));
 
-        step("//a[contains(@class, 'button white active blog')] isEqualTo 1", () ->
-            assertThat($$("//a[contains(@class, 'button white active blog')]").size()).isEqualTo(1));
+        step("На странице есть раздел Обо мне", () ->
+            assertThat($$(By.xpath("//a[contains(@class, 'button white active blog')]")).size()).isEqualTo(1));
 
     }
 
