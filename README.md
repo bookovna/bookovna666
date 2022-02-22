@@ -22,12 +22,12 @@ ________
 * Удалённо ``gradle clean test -DtypeEnv=remote``
 
 ### <img src="images/logo/Jenkins.svg" width="40" height="40"/> Конфигурация Job в Jenkins 
-🔴 Открыть сборку [Jenkins](https://jenkins.autotests.cloud/job/009_qaguru_j_unicorn_hw13v2/build?delay=0sec).  
+🔴 Открыть сборку [Jenkins](https://jenkins.autotests.cloud/job/bookovna-666/build?delay=0sec).  
 🔴 Нажать **"Собрать с параметрами"**.  
 🔴 Указать необходимые параметры.  
 🔴 Нажать на кнопку **"Собрать"**.  
 
-<img src="images/screenshots/Jenkins parameters.jpg" width="1000" height="700"/>  
+<img src="images/screenshots/job.png" width="1000" height="700"/>  
 
 🔴 Для формирования отчета о прохождении тестов в Allure Report необходимо нажать на ссылку/иконку **"Allure Report"**.  
 
@@ -113,4 +113,4 @@ ________
 
 ### <img src="images/logo/Telegram.svg" width="30" height="30"/> Уведомления о прохождении тестов в Telegram  
 
-<img src="images/screenshots/telegram_bot.jpg" width="500" height="500"/>  
+<img src="images/screenshots/telegram_bot.png" />  
