@@ -27,7 +27,7 @@ ________
 🔴 Указать необходимые параметры.  
 🔴 Нажать на кнопку **"Собрать"**.  
 
-<img src="images/screenshots/job.png" width="1000" height="700"/>  
+<img src="images/screenshots/job.png" width="80%" height="80%"/>  
 
 🔴 Для формирования отчета о прохождении тестов в Allure Report необходимо нажать на ссылку/иконку **"Allure Report"**.  
 
@@ -113,4 +113,4 @@ ________
 
 ### <img src="images/logo/Telegram.svg" width="30" height="30"/> Уведомления о прохождении тестов в Telegram  
 
-<img src="images/screenshots/telegram_bot.png" />  
+<img src="images/screenshots/telegram_bot.png" width="30%" height="30%" />  
