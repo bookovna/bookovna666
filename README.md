@@ -23,15 +23,15 @@ ________
 
 ### <img src="images/logo/Jenkins.svg" width="40" height="40"/> Конфигурация Job в Jenkins 
 🔴 Открыть сборку [Jenkins](https://jenkins.autotests.cloud/job/bookovna-666/build?delay=0sec).  
-🔴 Нажать **"Собрать с параметрами"**.  
+🔴 Нажать **"Build with Parameters"**.  
 🔴 Указать необходимые параметры.  
-🔴 Нажать на кнопку **"Собрать"**.  
+🔴 Нажать на кнопку **"Build"**.  
 
 <img src="images/screenshots/job.png" width="80%" height="80%"/>  
 
 🔴 Для формирования отчета о прохождении тестов в Allure Report необходимо нажать на ссылку/иконку **"Allure Report"**.  
 
-<img src="images/screenshots/allure report1.jpg" width="1000" height="600"/>  
+<img src="images/logo/Allure_Report.svg" width="50" height="50"/>
 
 ### <img src="images/logo/Selenoid.svg" width="40" height="40"/> Видео прохождения тестов в Selenoid  
 
