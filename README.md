@@ -1,7 +1,7 @@
 ## Проект по разработке автотестов для сайта [Goritskov.com](https://goritskov.com/ "goritskov's home")
 ### Технологический стек
 ________
-<img src="images/logo/Java.svg" width="50" height="50"/>  <img src="images/logo/Intelij_IDEA.svg" width="50" height="50"/>  <img src="images/logo/Gradle.svg" width="50" height="50"/>  <img src="images/logo/JUnit5.svg" width="50" height="50"/>  <img src="images/logo/Selenide.svg" width="50" height="50"/>  <img src="images/logo/GitHub.svg" width="50" height="50"/>  <img src="images/logo/Jenkins.svg" width="50" height="50"/>  <img src="images/logo/Selenoid.svg" width="50" height="50"/>  <img src="images/logo/Allure_Report.svg" width="50" height="50"/>  <img src="images/logo/Allure_TestOps.svg" width="50" height="50"/>  <img src="images/logo/Telegram.svg" width="50" height="50"/>
+<img src="images/logo/Java.svg" width="50" height="50"/>   <img src="images/logo/Intelij_IDEA.svg" width="50" height="50"/>   <img src="images/logo/Gradle.svg" width="50" height="50"/>   <img src="images/logo/JUnit5.svg" width="50" height="50"/>   <img src="images/logo/Selenide.svg" width="50" height="50"/>   <img src="images/logo/GitHub.svg" width="50" height="50"/>   <img src="images/logo/Jenkins.svg" width="50" height="50"/>   <img src="images/logo/Selenoid.svg" width="50" height="50"/>   <img src="images/logo/Allure_Report.svg" width="50" height="50"/>   <img src="images/logo/Allure_TestOps.svg" width="50" height="50"/>   <img src="images/logo/Telegram.svg" width="50" height="50"/>
 
 -----
 * Автотесты написаны на ``Java`` с использованием фреймворка ``Selenide``
