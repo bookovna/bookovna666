@@ -58,9 +58,7 @@ ________
 
 ### <img src="images/logo/Selenoid.svg" width="40" height="40"/> Видео прохождения тестов в Selenoid  
 
-<video>
- <source src="video/5e8b77b7342d9aaf.mp4">
-<width=180/>
+![Alt text](gif_file.gif) / ![](gif_file.gif)
  
 
 ### <img src="images/logo/Telegram.svg" width="30" height="30"/> Уведомления о прохождении тестов в Telegram  
