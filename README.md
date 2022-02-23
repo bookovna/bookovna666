@@ -23,7 +23,7 @@ ________
 
 ### <img src="images/logo/Jenkins.svg" width="40" height="40"/> Конфигурация Job в Jenkins 
 ✅ Открыть сборку [Jenkins](https://jenkins.autotests.cloud/job/bookovna-666/build?delay=0sec)  
-✅ Кликнуть на **"Build with Parameters"**
+✅ Кликнуть на **"Build with Parameters"**  
 ✅ Указать нужные параметры  
 ✅ Кликнуть на **"Build"** 
 
@@ -44,7 +44,7 @@ ________
 
 </details>  
 
-### <img src="images/logo/Allure_TestOps.svg" width="30" height="30"/> Интеграция тестов c тест-менеджмент системой [Allure TestOps](https://allure.autotests.cloud/project/862/dashboards)
+### <img src="images/logo/Allure_TestOps.svg" width="30" height="30"/> Интеграция тестов c тест-менеджмент системой [Allure TestOps](https://allure.autotests.cloud/launch/11113)
 
 <details>
   <summary>Подробнее</summary> 
@@ -58,11 +58,8 @@ ________
 
 ### <img src="images/logo/Selenoid.svg" width="40" height="40"/> Видео прохождения тестов в Selenoid  
 
-
-<https://user-images.githubusercontent.com/93325839/148690769-79fc4059-f033-4f35-a7be-39214e0dc110.mp4>
-
 <video>
- <source src="video/ezgif-4-b7f8c267cf.gif">
+ <source src="video/5e8b77b7342d9aaf.mp4">
 </video>
  
 
