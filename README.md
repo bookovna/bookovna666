@@ -60,7 +60,7 @@ ________
 
 <video>
  <source src="video/5e8b77b7342d9aaf.mp4">
-</video>
+<width=180/>
  
 
 ### <img src="images/logo/Telegram.svg" width="30" height="30"/> Уведомления о прохождении тестов в Telegram  
